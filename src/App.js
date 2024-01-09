@@ -1,8 +1,9 @@
-
+import React from "react";
+import PaymentDashboard from "./components/PaymentDashboard";
 function App() {
   return (
-    <div className="text-center">
-      Hello
+    <div>
+      <PaymentDashboard/>
     </div>
   );
 }
