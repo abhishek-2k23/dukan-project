@@ -25,7 +25,7 @@ const Transactions = () => {
       </div>
 
       {/* Table and Page section  */}
-      <div className="h-[1096px] w-[1152px] flex flex-col items-center gap-4 bg-white">
+      <div className="h-[1096px] w-[1152px] flex flex-col items-center gap-4 bg-white drop-shadow">
         {/* Table Section  */}
       <div className=" pt-3 pr-3 pb-2 pl-3  rounded-lg">
         {/* table top  */}

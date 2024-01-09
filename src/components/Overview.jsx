@@ -19,14 +19,14 @@ const Overview = () => {
         {/* two boxes  */}
         <div className='w-[1152px] h-[118px] flex justify-between gap-5'>
           {/* first box  */}
-          <div className='w-[556px] h-[118px] flex justify-center items-center gap-6 bg-white rounded-md'>
+          <div className='w-[556px] h-[118px] flex justify-center items-center gap-6 bg-white rounded-md drop-shadow-sm'>
             <div className='w-[526px] h-[78px] flex flex-col gap-4'>
               <p className='text-[#4D4D4D] text-[16px] leading-6 font-normal'>Online Orders</p>
               <p className='text-[#1A181E] text-[32px] leading-[38px] font-medium'>231</p>
             </div>
           </div>
           {/* second box  */}
-          <div className='w-[556px] h-[118px] flex justify-center items-center gap-6 bg-white rounded-md'>
+          <div className='w-[556px] h-[118px] flex justify-center items-center gap-6 bg-white rounded-md drop-shadow-sm'>
             <div className='w-[526px] h-[78px] flex flex-col gap-4'>
               <p className='text-[#4D4D4D] text-[16px] leading-6 font-normal'>Amount received</p>
               <p className='text-[#1A181E] text-[32px] leading-[38px] font-medium'>₹23,92,312.19</p>

@@ -11,9 +11,9 @@ const Nav = () => {
         <div>
           <p className='text-[15px] font-normal leading-6 text-[#1A181E]'>Payments </p>
         </div>
-        <div className='flex gap-2'>
+        <div className='flex gap-2 text-[15px] font-normal leading-4 text-[#4D4D4D]'>
           <span><FaRegQuestionCircle /></span>
-          <span className='text-[15px] font-normal leading-4 text-[#4D4D4D]'>How it works</span>
+          <span>How it works</span>
         </div>
       </div>
       {/* search bar  */}
